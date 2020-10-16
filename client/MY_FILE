@@ -1,0 +1,7 @@
+<robot>
+<geometry>
+<cylinder radius = "1" height = "1">
+<rgba ="1 1 1 1">
+<color = "blue
+</geometry>
+</robot>
